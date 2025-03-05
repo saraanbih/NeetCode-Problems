@@ -1,4 +1,4 @@
-### **📌 NeetCode Problems Solutions**  
+### **📌 NeetCode Problems Solutions** ### 
 
 Welcome to my **NeetCode Problems Solutions** repository! 🎯 This repo contains my solutions to various **NeetCode** problems, categorized by topic and difficulty
 
@@ -12,24 +12,24 @@ Welcome to my **NeetCode Problems Solutions** repository! 🎯 This repo contain
 ---
 
 ## **📂 Topics Covered** 🗂  
-🔹 **Arrays & Hashing**  
-🔹 **Two Pointers**  
-🔹 **Sliding Window**  
-🔹 **Stack**  
-🔹 **Binary Search**  
-🔹 **Linked List**
-🔹 **Trees**   
-🔹 **Heap / Priority Queue**
-🔹 **Backtracking**
-🔹 **Tries**
-🔹 **Graphs**
-🔹 **Advanced Graphs**
-🔹 **1-D DP**
-🔹 **2-D DP**
-🔹 **Greedy**
-🔹 **Intervals**
-🔹 **Math & Geometry**
-🔹 **Bit-Maniuplation**  
+🔹 **Arrays & Hashing**.  
+🔹 **Two Pointers**.
+🔹 **Sliding Window**. 
+🔹 **Stack**.
+🔹 **Binary Search**.  
+🔹 **Linked List**.
+🔹 **Trees**.
+🔹 **Heap / Priority Queue**.
+🔹 **Backtracking**.
+🔹 **Tries**.
+🔹 **Graphs**.
+🔹 **Advanced Graphs**.
+🔹 **1-D DP**.
+🔹 **2-D DP**.
+🔹 **Greedy**.
+🔹 **Intervals**.
+🔹 **Math & Geometry**.
+🔹 **Bit-Maniuplation**.  
 
 ---
 
@@ -53,9 +53,7 @@ git clone https://github.com/saraanbih/NeetCode-Problems.git
 
 ## **🔗 Useful Resources**  
 📘 [NeetCode - Website](https://neetcode.io/)  
-📘 [LeetCode - Practice Problems](https://leetcode.com/)  
-📘 [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)  
-  
+📘 [LeetCode - Practice Problems](https://leetcode.com/)    
 
 ---
 
